@@ -16,7 +16,11 @@ The code for this website lives in [this GitHub repository][github]. To deploy c
 
 ### Server / CDN deployment
 
-The site is hosted by Netlify in the [Visual Communications team account][netlify], and is owned and maintained by Visual Communications. Netlify is configured for automatic deployment via GitHub to a CDN. `./netlify.toml` contains a server rewrite from `/` to `/story_html5.html`. This way visiting the top level domain _just works_, instead of requiring the user to type `/story_html5.html` at the end.
+The site is hosted by Netlify in the [Visual Communications team account][netlify], and is owned and maintained by Visual Communications. Netlify is configured for automatic deployment via GitHub to a CDN.
+
+#### Rewrites
+
+`./netlify.toml` contains a server rewrite from `/` to `/story_html5.html`. This way visiting the top level domain _just works_, instead of requiring the user to type `/story_html5.html` at the end.
 
 ### Domain registration
 
