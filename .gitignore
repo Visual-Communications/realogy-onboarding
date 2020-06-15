@@ -1,0 +1,5 @@
+# OS files
+.DS_Store
+
+# Local server config folders
+.netlify
