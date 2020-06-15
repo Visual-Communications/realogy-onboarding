@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/index.html"
+  from = "/"
   to = "/story_html5.html"
   status = 200
