@@ -26,7 +26,12 @@ The site is hosted by Netlify in the [Visual Communications team account][netlif
 
 The realogyonboarding.com domain is registered at [Hover][hover], in an account owned and maintained by Realogy Human Resources. The domain is setup to auto-renew yearly, with automatic SSL certificate renewal. DNS nameservers are pointed at Netlify.
 
+### DNS
+
+DNS is managed by [Netlify][netlify-dns].
+
 [d-scape]: http://www.dscape.com/
 [github]: https://github.com/Visual-Communications/realogy-onboarding
 [netlify]: https://app.netlify.com/teams/visual-communications
 [hover]: https://www.hover.com/
+[netlify-dns]: https://app.netlify.com/teams/visual-communications/dns/realogyonboarding.com
